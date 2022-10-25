@@ -42,5 +42,5 @@ For NumOfNodes = 15, NumOfMessagePerNode = 10 and M = 16  ->  Average Hop Count 
 
 For NumOfNodes = 30, NumOfMessagePerNode = 10 and M = 16  ->  Average Hop Count = 4.61
 
-As we see above the average hop count is roughly around sqrt of M thus maching therotical boundaries.
+As we see above the average hop count is roughly around (log base 2 of M) thus maching therotical boundaries.
 
